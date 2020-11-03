@@ -13,6 +13,7 @@
     * Task;
     * Clocked schedule with the chosen date and the time;
     * Set the flag One-off-task;
+    * In the "Arguments" section, set in "Keyword Arguments": {"url": "http://your-url.com"}
 
 ## Used resources:
 * Python 3.8;
