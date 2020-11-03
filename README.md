@@ -7,7 +7,9 @@
     docker-compose run web python manage.py createsuperuser
 
 # Schedule a single task:
-* Go to http://localhost:8000/admin/django_celery_beat/periodictask/add/
+* Go to http://localhost:8000/admin
+* Log in;
+* Add a new periodic task;
 * Set a:
     * Name;
     * Task;
